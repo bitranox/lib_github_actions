@@ -1,7 +1,6 @@
 lib_github_actions
 ==================
 
-
 Version v0.0.1 as of 2021-08-23 see `Changelog`_
 
 |travis_build| |license| |jupyter| |pypi| |black|
